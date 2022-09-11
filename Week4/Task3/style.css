@@ -1,0 +1,31 @@
+.main
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.display
+{
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    border-style: solid;
+}
+
+.row
+{
+    display: flex;
+}
+
+.button
+{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: darkgray;
+    border-radius: 20px;
+    border-style: solid;
+}

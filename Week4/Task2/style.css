@@ -1,0 +1,30 @@
+.main
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1200px;
+    height: 800px;
+    margin: auto;
+}
+
+.start
+{
+    display: flex;
+}
+
+.choiceBox
+{
+    display: flex;
+}
+
+.item
+{
+    width: 300px;
+    height: 300px;
+}
+
+.startText
+{
+    font-size: 100px;
+}
